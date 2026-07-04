@@ -84,7 +84,7 @@ A console-based Vehicle Service System developed using Core Python, Object-Orien
 - SHA-256 Password Hashing
 
 ## Default Admin Credentials
-Username : admin
+Username : admin <br>
 Password : admin123
 
 admin.txt: admin|240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9
