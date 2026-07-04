@@ -164,7 +164,7 @@ Santosh Hinduja
 <img width="820" height="471" alt="image" src="https://github.com/user-attachments/assets/fac15134-c34e-4f02-a9da-6c09c26ff81a" />
 
 11. Create Service Request
-<img width="850" height="517" alt="image" src="https://github.com/user-attachments/assets/105bd987-e6e2-4412-bd41-cc918b7d83e8" />
+<img width="850" height="517" alt="image" src="https://github.com/user-attachments/assets/068abf9e-ac22-415f-bebd-d5fdd9b94985" />
 
 12. Assign Mechanic
 <img width="808" height="351" alt="image" src="https://github.com/user-attachments/assets/edd19b3d-46ca-49ac-accf-b7fa7b631ada" />
