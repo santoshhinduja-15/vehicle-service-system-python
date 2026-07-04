@@ -1,0 +1,54 @@
+from datetime import datetime
+
+# FILE PATHS
+ADMIN_FILE = "data/admin.txt"
+CUSTOMER_FILE = "data/customers.txt"
+VEHICLE_FILE = "data/vehicles.txt"
+MECHANIC_FILE = "data/mechanics.txt"
+SERVICE_REQUEST_FILE = "data/service_requests.txt"
+ASSIGNMENT_FILE = "data/assignments.txt"
+BILL_FILE = "data/bills.txt"
+PAYMENT_FILE = "data/payments.txt"
+
+
+# ROLE NAMES
+ADMIN_ROLE = "ADMIN"
+CUSTOMER_ROLE = "CUSTOMER"
+MECHANIC_ROLE = "MECHANIC"
+
+# SERVICE TYPES
+SERVICE_TYPES = ["General Service", "Oil Change", "Brake Repair", "Engine Checkup", "Washing", "Full Service"]
+
+# REQUEST STATUS
+REQUEST_PENDING = "Pending"
+REQUEST_ASSIGNED = "Assigned"
+REQUEST_IN_PROGRESS = "In Progress"
+REQUEST_COMPLETED = "Completed"
+
+REQUEST_STATUS = [REQUEST_PENDING, REQUEST_ASSIGNED, REQUEST_IN_PROGRESS, REQUEST_COMPLETED]
+
+# PAYMENT STATUS
+PAYMENT_PAID = "Paid"
+PAYMENT_UNPAID = "Unpaid"
+
+PAYMENT_STATUS = [PAYMENT_PAID, PAYMENT_UNPAID]
+
+# ID PREFIXES
+CUSTOMER_ID_PREFIX = "C"
+VEHICLE_ID_PREFIX = "V"
+MECHANIC_ID_PREFIX = "M"
+REQUEST_ID_PREFIX = "R"
+ASSIGNMENT_ID_PREFIX = "A"
+BILL_ID_PREFIX = "B"
+PAYMENT_ID_PREFIX = "P"
+
+# DATE FORMAT
+DATE_FORMAT = "%d-%m-%Y"
+
+# VALIDATION RULES
+MOBILE_LENGTH = 10
+MIN_PASSWORD_LENGTH = 6
+CURRENT_YEAR = datetime.now().year
+
+# VEHICLE TYPES
+VEHICLE_TYPES = ["Bike", "Car", "Scooter", "Truck", "Bus"]
