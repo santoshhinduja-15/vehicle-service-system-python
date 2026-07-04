@@ -91,60 +91,34 @@ admin.txt: admin|240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a
 
 ## Workflow
 ### Customer
-Register
-   ↓
-Login
-   ↓
-Add Vehicle
-   ↓
-Create Service Request
-   ↓
-Track Service Status
+Register -> Login -> Add Vehicle -> Create Service Request -> Track Service Status
 
 ### Admin
-Login
-   ↓
-Manage Customers
-   ↓
-Manage Vehicles
-   ↓
-Manage Mechanics
-   ↓
-Assign Mechanics
-   ↓
-Generate Bills
-   ↓
-View Reports
+Login -> Manage Customers -> Manage Vehicles -> Manage Mechanics -> Assign Mechanics -> Generate Bills -> View Reports
 
 ### Mechanic
-Login
-   ↓
-View Assigned Jobs
-   ↓
-Update Status
-   ↓
-Complete Service
+Login -> View Assigned Jobs -> Update Status -> Complete Service
 
 ## Sample Data
 ### Customer
-Customer ID : C101
-Name : Rahul Sharma
-Mobile : 9876543210
-Email : rahul.sharma@gmail.com
+Customer ID : C101 <br>
+Name : Rahul Sharma <br>
+Mobile : 9876543210 <br>
+Email : rahul.sharma@gmail.com <br>
 Address : Mumbai
 
 ### Vehicle
-Vehicle ID : V101
-Customer ID : C101
-Vehicle Number : MH01AB1234
-Vehicle Type : Car
-Company : Hyundai
-Model : Creta
-Manufacturing Year : 2022
+Vehicle ID : V101 <br>
+Customer ID : C101 <br>
+Vehicle Number : MH01AB1234 <br>
+Vehicle Type : Car <br>
+Company : Hyundai <br>
+Model : Creta <br>
+Manufacturing Year : 2022 
 
 ### Mechanic
-Mechanic ID : M101
-Name : Rajesh Kumar
+Mechanic ID : M101 <br> 
+Name : Rajesh Kumar <br>
 Specialization : Engine Repair
 
 ## Future Enhancements
