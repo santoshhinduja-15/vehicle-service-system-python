@@ -1,4 +1,4 @@
-<img width="818" height="468" alt="image" src="https://github.com/user-attachments/assets/cfea12ea-9337-4db0-a20f-6f14aaa47666" /># Vehicle Service System
+# Vehicle Service System
 A console-based Vehicle Service System developed using Core Python, Object-Oriented Programming (OOP), and TXT file storage. The system helps manage customers, vehicles, service requests, mechanic assignments, billing, payments, and reports in a vehicle service center environment.
 
 ## Features
